@@ -1,2 +1,2 @@
 # Honkai Impact 3rd
-  Honkai Impact 3rd is a free-to-play RPG game created by game studio HoyoVerse an was released on October 14th, 2016. It is the spiritual successor to HoyoVerse's previous game, Houkai Gakuen 2 with many characters carrying over from their previous game.
+  Honkai Impact 3rd is a free-to-play RPG game created by game studio HoyoVerse an was released on October 14th, 2016. It is the spiritual successor to HoyoVerse's previous game, Houkai Gakuen 2 with many characters carrying over. The game takes place in a fictional alternate reality where Earth is attacked by an alien force known as the Honkai. The Honkai can take multiple different forms with the ability to possess machines and even humans (creating Herrschers). 
