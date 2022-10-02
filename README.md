@@ -3,7 +3,7 @@
   
   A greatsword type prop weapon completely custom designed and 3D printed. The blade is made up of 3D prints printed from transparent PLA filament, layered internally with parchment paper, and an LED strip is attached underneath to give it a blue glow. There is also a 3ft long wooden pole in the middle to act as a support to ensure the prop doesn't fall apart (3D prints aren't that strong).
   
-  Created as an entry to the Sci Fi Contest on hackaday.io ([XX](https://hackaday.io/contest/184314-sci-fi-contest))
+  Created as an entry to the Sci Fi Contest on Hackaday.io ([Hackaday.io Sci-Fi Contest](https://hackaday.io/contest/184314-sci-fi-contest))
 # **Documentation**
 __CAD Complete (04/21/2022)__
 The CAD has been completed! A bit jank but should work. 
