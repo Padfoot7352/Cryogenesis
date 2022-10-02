@@ -11,3 +11,6 @@ Overall, I'm not disappointed in the final product but I definitely think I can 
 ![lit dark](lit dark.png)
 ![lit light](lit light.png)
 ![unlit light](unlit light.png)
+
+
+Created using jekyll-theme-minimalistic template
