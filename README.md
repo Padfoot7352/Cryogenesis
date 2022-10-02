@@ -10,7 +10,7 @@ __Done! (04/25/2022)__
 Overall, I'm not disappointed in the final product but I definitely think I can do better (especially with imperfections in the assembly due to too tight tolerances or hot glue not holding, etc) . But considering this is the first project I've taken on on this large of a scale, I'm still pretty happy with it.
 <img src="/Padfoot7352/Cryogenesis/blob/main/lit%20dark.PNG?" alt="lit dark.PNG">
 ![lit light](lit light.png)
-![unlit light](unlit light.png)
+<a src="https://github.com/Padfoot7352/Cryogenesis/blob/main/unlit%20light.PNG">img</a>
 
 
 Created using jekyll-theme-minimalistic template
