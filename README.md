@@ -1,4 +1,4 @@
-# **Waht is Cryogenesis?**
+# **What is Cryogenesis?**
   Cryogenesis, harnessing the power of cryo (ice), it shall freeze its opponents to their very core...
   
   A greatsword-type prop weapon completely custom designed and 3D printed. The blade is made up of 3D prints printed from transparent PLA filament, layered internally with parchment paper, and an LED strip is attached underneath to give it a blue glow. There is also a 3ft long wooden pole in the middle to act as a support to ensure the prop doesn't fall apart (3D prints aren't that strong).
