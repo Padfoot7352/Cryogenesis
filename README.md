@@ -8,3 +8,6 @@ __Done! (04/25/2022)__
   Assembly finally complete. I added a wooden pole in the middle to act as a support for the 3D prints. I also layered the insides of the transparent blade with parchment paper to help diffuse the LED light better. Mosly held together with hot glue.
 
 Overall, I'm not disappointed in the final product but I definitely think I can do better (especially with imperfections in the assembly due to too tight tolerances or hot glue not holding, etc) . But considering this is the first project I've taken on on this large of a scale, I'm still pretty happy with it.
+![lit dark](lit dark.png)
+![lit light](lit light.png)
+![unlit light](unlit light.png)
